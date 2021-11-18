@@ -1,0 +1,486 @@
+/*GERAL*/
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+/*GERAL*/
+
+/*CABEÇALHO*/
+
+#cabeçalho {
+    background-color: #f3f3f3;
+    height: 700px;
+}
+
+#ftcabeçalho {
+    width: 100%;
+    height: 550px;
+}
+
+#logocb {
+    z-index: 1;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+#nomedositecb {
+    z-index: 1;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 30px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 3rem;
+}
+
+#titulotxtcb {
+    z-index: 1;
+    font-weight: 500;
+    font-size: 3.5rem;
+    line-height: 3rem;
+    color: #fff;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 80px;
+}
+
+#cbtxt {
+    z-index: 1;
+    position: absolute;
+    font-size: 1rem;
+    line-height: 1.625rem;
+    color: #fff;
+    padding: 150px;
+    margin-top: 225px;
+    margin-left: -70px;
+}
+/*CABEÇALHO*/
+
+/*CORPO*/
+
+#container1 {
+    background-color: #f3f3f3;
+    margin-top: -100px;
+    height: 100rem;
+}
+
+#titulo1 {
+    font-size: 1.90rem;
+    font-weight: 500;
+    line-height: 2.25rem;
+    margin-top: 100px;
+    justify-content: center;
+    text-align: center;
+}
+
+#txt1 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -80px;
+}
+
+#card1 {
+    background-color: #fff;
+    width: 35rem;
+    height: 30rem;
+    margin-left: 70px;
+}
+
+#card1:hover {
+    background-color: #ffa4a2;
+    transition: .5s;
+}
+
+#problemaicon1 {
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+
+#box1titulo {
+    color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 450;
+}
+
+#box1txt {
+    padding: 5rem;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgb(112, 111, 111);
+}
+
+#card2 {
+    background-color: #fff;
+    width: 35rem;
+    height: 30rem;
+    margin-left: 700px;
+    margin-top: -480px;
+}
+
+#card2:hover {
+    background-color: #ffa4a2;
+    transition: .5s;
+}
+
+#problemaicon2 {
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+
+#box2titulo {
+    color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 450;
+}
+
+#box2txt {
+    padding: 5rem;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgb(112, 111, 111);
+}
+
+#card3 {
+    background-color: #fff;
+    width: 35rem;
+    height: 30rem;
+    margin-left: 700px;
+    margin-top: 60px;
+}
+
+#card3:hover {
+    background-color: #ffa4a2;
+    transition: .5s;
+}
+
+#problemaicon3 {
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+
+#box3titulo {
+    color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 450;
+}
+
+#box3txt {
+    padding: 5rem;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgb(112, 111, 111);
+}
+
+#card4 {
+    background-color: #fff;
+    width: 35rem;
+    height: 30rem;
+    margin-left: 70px;
+    margin-top: -480px;
+}
+
+#card4:hover {
+    background-color: #ffa4a2;
+    transition: .5s;
+}
+
+#problemaicon4 {
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+
+#box4titulo {
+    color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 450;
+}
+
+#box4txt {
+    padding: 5rem;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgb(112, 111, 111);
+}
+
+#container2img {
+    width: 100%;
+}
+
+#titulo2 {
+    z-index: 1;
+    font-size: 1.90rem;
+    font-weight: 500;
+    line-height: 2.25rem;
+    margin-top: 100px;
+    margin-top: -620px;
+    margin-left: 100px;
+}
+
+#txt2 {
+    z-index: 1;
+    font-size: 1.10rem;
+    line-height: 1.5rem;
+    padding: 650px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -590px;
+    margin-left: -550px;
+}
+
+#saibamais1 {
+    color: rgb(112, 111, 111);
+    font-size: 1rem;
+    justify-content: center;
+    text-align: center;
+    margin-top: -500px;
+}
+
+#saibamais1:hover {
+    opacity: 0.5;
+    transition: .5s;
+}
+
+#exercicioicon1 {
+    position: absolute;
+    margin-left: 350px;
+}
+
+#exercicio1titulo {
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 500;
+    line-height: 2.25rem;
+    margin-top: 150px;
+}
+
+#exercicio1txt {
+    padding: 20rem;
+    margin-top: -220px;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgb(112, 111, 111);
+}
+
+#exercicioicon2 {
+    position: absolute;
+    margin-left: 350px;
+}
+
+#exercicio2titulo {
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 500;
+    line-height: 2.25rem;
+    margin-top: 150px;
+}
+
+#exercicio2txt {
+    padding: 20rem;
+    margin-top: -220px;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgb(112, 111, 111);
+}
+
+#exercicioicon3 {
+    position: absolute;
+    margin-left: 350px;
+}
+
+#exercicio3titulo {
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 500;
+    line-height: 2.25rem;
+    margin-top: 150px;
+}
+
+#exercicio3txt {
+    padding: 20rem;
+    margin-top: -220px;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgb(112, 111, 111);
+}
+
+#exercicioicon4 {
+    position: absolute;
+    margin-left: 350px;
+}
+
+#exercicio4titulo {
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 500;
+    line-height: 2.25rem;
+    margin-top: 150px;
+}
+
+#exercicio4txt {
+    padding: 20rem;
+    margin-top: -220px;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgb(112, 111, 111);
+}
+
+#titulo3 {
+    font-size: 1.90rem;
+    font-weight: 500;
+    line-height: 2.25rem;
+    margin-top: 200px;
+    justify-content: center;
+    text-align: center;
+}
+
+#txt3 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -80px;
+}
+
+#slider {
+    margin-left: 190px;
+    margin-top: 40px;
+    width: 1000px;
+    text-align: center;
+ }
+
+ #slider input[type=radio] {
+    display: none;
+ }
+
+ #slider label {
+    cursor:pointer;
+    text-decoration: none;
+ }
+
+ #slides {
+    padding: 10px;
+    position: relative;
+ }
+
+ #overflow {
+    overflow: hidden;
+ }
+
+ #slide1:checked ~ #slides .inner {
+    margin-left: 0;
+    background: #e57373;
+ }
+
+ #slide2:checked ~ #slides .inner {
+    margin-left: -100%;
+    background-color: #ef5350;
+ }
+
+ #slide3:checked ~ #slides .inner {
+    margin-left: -200%;
+    background-color: #f44336;
+ }
+
+ #slide4:checked ~ #slides .inner {
+    margin-left: -300%;
+    background-color: #e53935;
+ }
+
+ #slides .inner {
+    transition: margin-left 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000);
+    width: 400%;
+    height: 500px;
+ }
+
+ #slides .slide {
+    width: 25%;
+    float:left;
+    display: flex;
+    height: 20%;
+ }
+
+ #slidetitle {
+    margin-top: 100px;
+ }
+
+ #slidetxt {
+    padding: 80px;
+    margin-top: 20px;
+    justify-content: left;
+ }
+
+ #saibamaisslide {
+    color: black;
+ }
+
+ #saibamaisslide:hover {
+    color: #ccc;
+    transition: .5s;
+ }
+ 
+ #controls {
+    margin: -180px 0 0 0;
+    width: 100%;
+    height: 50px;
+    position: relative;
+ }
+
+ #controls label {
+    transition: opacity 0.2s ease-out;
+    display: none;
+    width: 50px;
+    height: 50px;
+    opacity: .4;
+ }
+
+ #controls label:hover {
+    opacity: 1;
+ }
+
+ #bullets {
+    margin: 150px 0 0;
+    text-align: center;
+ }
+
+ #bullets label {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius:100%;
+    background: #ccc;
+    margin: 0 10px;
+ }
+
+ #slide1:checked ~ #bullets label:nth-child(1),
+ #slide2:checked ~ #bullets label:nth-child(2),
+ #slide3:checked ~ #bullets label:nth-child(3),
+ #slide4:checked ~ #bullets label:nth-child(4) {
+    background: #444;
+ }
