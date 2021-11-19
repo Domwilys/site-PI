@@ -484,3 +484,160 @@
  #slide4:checked ~ #bullets label:nth-child(4) {
     background: #444;
  }
+
+/*CORPO*/
+
+/*RODAPÉ*/
+
+#rodape {
+    background-color: #191923;
+    width: 100%;
+    height: 350px;
+    margin-top: 230px;
+    padding: 30px 0 60px;
+}
+
+#logorp {
+    z-index: 1;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+#nomedositerp {
+    z-index: 1;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 3rem;
+    color: #f3f3f3c7;
+}
+
+#fraserodape {
+    padding-top: 90px;
+    padding-left: 80px;
+    font-size: .780rem;
+    line-height: 1.125rem;
+    color: #f3f3f3c7;
+}
+
+#sobretxt {
+    color: #f3f3f3c7;
+    font-weight: 100;
+    font-size: 1.3rem;
+    padding-left: 600px;
+    margin-top: -85px;
+}
+
+#sobreitem1 {
+    color: #fff;
+    font-weight: 100;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    padding-left: 603px;
+    padding-top: 23px;
+}
+
+#sobreitem1:hover {
+    color: #ccc;
+    transition: .5s;
+}
+
+#sobreitem2 {
+    color: #fff;
+    font-weight: 100;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    padding-left: 700px;
+    margin-top: -16px;
+}
+
+#sobreitem2:hover {
+    color: #ccc;
+    transition: .5s;
+}
+
+#sobreitem3 {
+    color: #fff;
+    font-weight: 100;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    padding-left: 600px;
+    margin-top: 20px;
+}
+
+#sobreitem3:hover {
+    color: #ccc;
+    transition: .5s;
+}
+
+#sobreitem4 {
+    color: #fff;
+    font-weight: 100;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    padding-left: 700px;
+    margin-top: -15px;
+}
+
+#sobreitem4:hover {
+    color: #ccc;
+    transition: .5s;
+}
+
+#contatotxt {
+    color: #f3f3f3c7;
+    font-weight: 100;
+    font-size: 1.3rem;
+    padding-left: 1100px;
+    margin-top: -100px;
+}
+
+#contato1 {
+    color: #fff;
+    font-weight: 100;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    padding-left: 1100px;
+    padding-top: 23px;
+}
+
+#contato1:hover {
+    color: #ccc;
+    transition: .5s;
+}
+
+#contato2 {
+    color: #fff;
+    font-weight: 100;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    padding-left: 1100px;
+    padding-top: 25px;
+}
+
+#contato2:hover {
+    color: #ccc;
+    transition: .5s;
+}
+
+#contato3 {
+    color: #fff;
+    font-weight: 100;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    padding-left: 1100px;
+    padding-top: 27px;
+}
+
+#contato3:hover {
+    color: #ccc;
+    transition: .5s;
+}
+
+#gmail {
+    margin-left: 640px;
+    margin-top: 40px;
+}
