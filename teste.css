@@ -1,13 +1,23 @@
+/*FONTES*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Raleway:wght@100&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Montserrat:wght@200&family=Raleway:wght@100&family=Ubuntu:wght@300&display=swap');
+
+/*FONTES*/
+
 /*GERAL*/
+
 * {
     padding: 0;
     margin: 0;
     border: 0;
     box-sizing: border-box;
-    font-family: 'Quicksand', sans-serif;
     list-style: none;
     text-decoration: none;
 }
+
 /*GERAL*/
 
 /*CABEÇALHO*/
@@ -19,7 +29,7 @@
 
 #ftcabeçalho {
     width: 100%;
-    height: 550px;
+    height: 580px;
 }
 
 #logocb {
@@ -33,18 +43,16 @@
     z-index: 1;
     position: absolute;
     margin-left: 140px;
-    margin-top: 30px;
+    margin-top: 39px;
     color: #fff;
-    font-weight: 500;
-    font-size: 1.25rem;
-    line-height: 3rem;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #titulotxtcb {
     z-index: 1;
-    font-weight: 500;
-    font-size: 3.5rem;
-    line-height: 3rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 150;
+    font-size: 40px;
     color: #fff;
     position: absolute;
     margin-top: 260px;
@@ -52,15 +60,17 @@
 }
 
 #cbtxt {
+    font-family: 'Dosis', sans-serif;
     z-index: 1;
     position: absolute;
-    font-size: 1rem;
+    font-size: 1.3rem;
     line-height: 1.625rem;
     color: #fff;
     padding: 150px;
     margin-top: 225px;
     margin-left: -70px;
 }
+
 /*CABEÇALHO*/
 
 /*CORPO*/
@@ -72,16 +82,16 @@
 }
 
 #titulo1 {
-    font-size: 1.90rem;
-    font-weight: 500;
-    line-height: 2.25rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
     margin-top: 100px;
     justify-content: center;
     text-align: center;
 }
 
 #txt1 {
-    font-size: 1rem;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
     line-height: 1.5rem;
     padding: 150px;
     font-size: 300;
@@ -92,7 +102,7 @@
 #card1 {
     background-color: #fff;
     width: 35rem;
-    height: 30rem;
+    height: 33rem;
     margin-left: 70px;
 }
 
@@ -103,21 +113,22 @@
 
 #problemaicon1 {
     position: relative;
-    top: 40px;
-    left: 50px;
+    top: 45px;
+    left: 60px;
 }
 
 #box1titulo {
+    font-family: 'Ubuntu', sans-serif;
     color: black;
     justify-content: center;
     text-align: center;
     font-size: 1.7rem;
-    font-weight: 450;
 }
 
 #box1txt {
+    font-family: 'Dosis', sans-serif;
     padding: 5rem;
-    font-size: 1rem;
+    font-size: 1.3rem;
     line-height: 1.25rem;
     color: rgb(112, 111, 111);
 }
@@ -125,9 +136,9 @@
 #card2 {
     background-color: #fff;
     width: 35rem;
-    height: 30rem;
+    height: 33rem;
     margin-left: 700px;
-    margin-top: -480px;
+    margin-top: -527px;
 }
 
 #card2:hover {
@@ -137,21 +148,22 @@
 
 #problemaicon2 {
     position: relative;
-    top: 40px;
-    left: 50px;
+    top: 45px;
+    left: 60px;
 }
 
 #box2titulo {
+    font-family: 'Ubuntu', sans-serif;
     color: black;
     justify-content: center;
     text-align: center;
     font-size: 1.7rem;
-    font-weight: 450;
 }
 
 #box2txt {
+    font-family: 'Dosis', sans-serif;
     padding: 5rem;
-    font-size: 1rem;
+    font-size: 1.3rem;
     line-height: 1.25rem;
     color: rgb(112, 111, 111);
 }
@@ -159,7 +171,7 @@
 #card3 {
     background-color: #fff;
     width: 35rem;
-    height: 30rem;
+    height: 33rem;
     margin-left: 700px;
     margin-top: 60px;
 }
@@ -171,21 +183,23 @@
 
 #problemaicon3 {
     position: relative;
-    top: 40px;
-    left: 50px;
+    top: 45px;
+    left: 60px;
 }
 
 #box3titulo {
+    margin-left: 12px;
+    font-family: 'Ubuntu', sans-serif;
     color: black;
     justify-content: center;
     text-align: center;
-    font-size: 1.7rem;
-    font-weight: 450;
+    font-size: 1.75rem;
 }
 
 #box3txt {
+    font-family: 'Dosis', sans-serif;
     padding: 5rem;
-    font-size: 1rem;
+    font-size: 1.3rem;
     line-height: 1.25rem;
     color: rgb(112, 111, 111);
 }
@@ -193,9 +207,9 @@
 #card4 {
     background-color: #fff;
     width: 35rem;
-    height: 30rem;
+    height: 33rem;
     margin-left: 70px;
-    margin-top: -480px;
+    margin-top: -529px;
 }
 
 #card4:hover {
@@ -205,21 +219,24 @@
 
 #problemaicon4 {
     position: relative;
-    top: 40px;
-    left: 50px;
+    top: 45px;
+    left: 60px;
 }
 
 #box4titulo {
+    margin-left: 12px;
+    font-family: 'Ubuntu', sans-serif;
     color: black;
     justify-content: center;
     text-align: center;
-    font-size: 1.7rem;
-    font-weight: 450;
+    font-size: 1.75rem;
+    font-weight: 650;
 }
 
 #box4txt {
+    font-family: 'Dosis', sans-serif;
     padding: 5rem;
-    font-size: 1rem;
+    font-size: 1.3rem;
     line-height: 1.25rem;
     color: rgb(112, 111, 111);
 }
@@ -229,8 +246,9 @@
 }
 
 #titulo2 {
+    font-family: 'Ubuntu', sans-serif;
     z-index: 1;
-    font-size: 1.90rem;
+    font-size: 2.2rem;
     font-weight: 500;
     line-height: 2.25rem;
     margin-top: 100px;
@@ -239,17 +257,26 @@
 }
 
 #txt2 {
+    font-family: 'Dosis', sans-serif;
     z-index: 1;
-    font-size: 1.10rem;
+    font-size: 1.3rem;
     line-height: 1.5rem;
     padding: 650px;
-    font-size: 300;
-    color: rgb(112, 111, 111);
+    color: black;
     margin-top: -590px;
     margin-left: -550px;
 }
 
+#titulo3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    margin-top: 100px;
+    justify-content: center;
+    text-align: center;
+}
+
 #saibamais1 {
+    font-family: 'Ubuntu', sans-serif;
     color: rgb(112, 111, 111);
     font-size: 1rem;
     justify-content: center;
@@ -351,16 +378,16 @@
 }
 
 #titulo3 {
-    font-size: 1.90rem;
-    font-weight: 500;
-    line-height: 2.25rem;
-    margin-top: 200px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    margin-top: 180px;
     justify-content: center;
     text-align: center;
 }
 
 #txt3 {
-    font-size: 1rem;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
     line-height: 1.5rem;
     padding: 150px;
     font-size: 300;
@@ -416,7 +443,7 @@
  #slides .inner {
     transition: margin-left 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000);
     width: 400%;
-    height: 500px;
+    height: 600px;
  }
 
  #slides .slide {
@@ -427,16 +454,20 @@
  }
 
  #slidetitle {
+    font-family: 'Ubuntu', sans-serif;
     margin-top: 100px;
  }
 
  #slidetxt {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
     padding: 80px;
     margin-top: 20px;
     justify-content: left;
  }
 
  #saibamaisslide {
+    font-family: 'Ubuntu', sans-serif;
     color: black;
  }
 
@@ -482,8 +513,8 @@
  #slide2:checked ~ #bullets label:nth-child(2),
  #slide3:checked ~ #bullets label:nth-child(3),
  #slide4:checked ~ #bullets label:nth-child(4) {
-    background: #444;
- }
+ background: #444;
+}
 
 /*CORPO*/
 
@@ -500,7 +531,7 @@
 #logorp {
     z-index: 1;
     position: absolute;
-    margin-top: 30px;
+    margin-top: 16px;
     margin-left: 80px;
 }
 
@@ -508,35 +539,32 @@
     z-index: 1;
     position: absolute;
     margin-left: 140px;
-    margin-top: 30px;
-    font-weight: 500;
-    font-size: 1.25rem;
-    line-height: 3rem;
+    margin-top: 26px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
     color: #f3f3f3c7;
 }
 
 #fraserodape {
-    padding-top: 90px;
+    padding-top: 85px;
     padding-left: 80px;
-    font-size: .780rem;
-    line-height: 1.125rem;
+    font-family: 'Raleway', sans-serif;
     color: #f3f3f3c7;
 }
 
 #sobretxt {
     color: #f3f3f3c7;
-    font-weight: 100;
-    font-size: 1.3rem;
-    padding-left: 600px;
-    margin-top: -85px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 590px;
+    margin-top: -100px;
 }
 
 #sobreitem1 {
     color: #fff;
-    font-weight: 100;
-    font-size: .9rem;
-    letter-spacing: .1rem;
-    padding-left: 603px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 10;
+    padding-left: 592px;
     padding-top: 23px;
 }
 
@@ -547,11 +575,11 @@
 
 #sobreitem2 {
     color: #fff;
-    font-weight: 100;
-    font-size: .9rem;
-    letter-spacing: .1rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 10;
     padding-left: 700px;
-    margin-top: -16px;
+    margin-top: -22px;
 }
 
 #sobreitem2:hover {
@@ -561,10 +589,10 @@
 
 #sobreitem3 {
     color: #fff;
-    font-weight: 100;
-    font-size: .9rem;
-    letter-spacing: .1rem;
-    padding-left: 600px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 10;
+    padding-left: 592px;
     margin-top: 20px;
 }
 
@@ -575,11 +603,11 @@
 
 #sobreitem4 {
     color: #fff;
-    font-weight: 100;
-    font-size: .9rem;
-    letter-spacing: .1rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 10;
     padding-left: 700px;
-    margin-top: -15px;
+    margin-top: -20px;
 }
 
 #sobreitem4:hover {
@@ -589,17 +617,16 @@
 
 #contatotxt {
     color: #f3f3f3c7;
-    font-weight: 100;
-    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
     padding-left: 1100px;
-    margin-top: -100px;
+    margin-top: -118px;
 }
 
 #contato1 {
     color: #fff;
-    font-weight: 100;
-    font-size: .9rem;
-    letter-spacing: .1rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 10;
     padding-left: 1100px;
     padding-top: 23px;
 }
@@ -611,9 +638,9 @@
 
 #contato2 {
     color: #fff;
-    font-weight: 100;
-    font-size: .9rem;
-    letter-spacing: .1rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 10;
     padding-left: 1100px;
     padding-top: 25px;
 }
@@ -625,9 +652,9 @@
 
 #contato3 {
     color: #fff;
-    font-weight: 100;
-    font-size: .9rem;
-    letter-spacing: .1rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 10;
     padding-left: 1100px;
     padding-top: 27px;
 }
@@ -641,3 +668,5 @@
     margin-left: 640px;
     margin-top: 40px;
 }
+
+/*RODAPÉ*/
