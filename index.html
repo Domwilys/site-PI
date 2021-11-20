@@ -9,10 +9,32 @@
     <link rel="icon" type="imagem/png" href="imagens\icone.png">
 </head>
 <body>
-    <section id="cabeçalho">
-        <a href="#"><h2 id="nomedositecb">Nome do Site</h2></a>
 
-        <a href="#"><img id="logocb" src="imagens\logo.png" alt="logo" height="45" width="45"></a>
+    <section id="navbar">
+        <header>
+            <nav>
+                <div class="logonav"><a href="#"><img id="logonavimg" src="imagens\logo.png" alt="logo" height="45" width="45"><h1 id="nomedositenv">Nome do site</h1></a></div>
+                <div class="navitems">
+                    <a href="#">Projeto</a>
+                    <a href="#">Conteúdo</a>
+                    <a href="#">Desenvolvedores</a>
+                </div>
+            </nav>
+        </header>
+
+        <script>
+            window.addEventListener('scroll', function () {
+                let navbar = document.querySelector('nav');
+                if(window.pageYOffset > 0){
+                    navbar.classList.add('nav2');
+                }else {
+                    navbar.classList.remove('nav2');
+                }
+            });
+        </script>
+    </section>
+
+    <section id="cabeçalho">
 
         <h2 id="titulotxtcb">Algum título ae</h2>
 
@@ -124,7 +146,7 @@
             </div>
          </div>
     </section>
-    
+
     <section id="rodape">
         <footer id="rodapecontainer">
             <div id="logorodape">
