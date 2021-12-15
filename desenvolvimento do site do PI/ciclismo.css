@@ -119,7 +119,7 @@ nav.nav2 a {
 #container1 {
     background-color: #f3f3f3;
     margin-top: -100px;
-    height: 200rem;
+    height: 212rem;
 }
 
 #titulo1 {
@@ -138,6 +138,46 @@ nav.nav2 a {
     font-size: 300;
     color: rgb(112, 111, 111);
     margin-top: -80px;
+}
+
+#txt1p2 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    margin-top: -270px;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+}
+
+#txt1p3 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    margin-top: -265px;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+}
+
+#txt1p4 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    margin-top: -260px;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+}
+
+#txt1p5 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    margin-top: -255px;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
 }
 
 #container2 {
@@ -161,14 +201,50 @@ nav.nav2 a {
     margin-top: -510px;
 }
 
+#txt2p1 {
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    font-size: 20px;
+    padding: 160px;
+    margin-left: 630px;
+    margin-top: -465px;
+}
+
+#txt2p2 {
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    font-size: 20px;
+    padding: 160px;
+    margin-left: 630px;
+    margin-top: -315px;
+}
+
+#txt2p3 {
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    font-size: 20px;
+    padding: 50px;
+    padding-top: 640px;
+    margin-top: -570px;
+}
+
+#txt2p4 {
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    font-size: 20px;
+    padding: 50px;
+    padding-top: 640px;
+    margin-top: -490px;
+}
+
 #container3 {
-    margin-top: -40px;
+    margin-top: 100px;
 }
 
 #txt3titulo {
     font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
-    margin-left: 240px;
+    margin-left: 150px;
     position: relative;
     top: 260px;
 }
@@ -187,10 +263,47 @@ nav.nav2 a {
     margin-top: -510px;
 }
 
+#txt3p2 {
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    font-size: 20px;
+    padding: 160px;
+    margin-right: 630px;
+    margin-top: -440px;
+}
+
+#txt3p3 {
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    font-size: 20px;
+    padding: 160px;
+    margin-right: 630px;
+    margin-top: -210px;
+}
+
+#txta {
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    font-size: 20px;
+    padding-top: 520px;
+    margin-top: -490px;
+    margin-left: -267px;
+}
+
+#txt3p4 {
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    font-size: 20px;
+    padding: 50px;
+    padding-top: 640px;
+    margin-top: -430px;
+    margin-left: 108px;
+}
+
 #titulo4 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
-    margin-top: 220px;
+    margin-top: 400px;
     justify-content: center;
     text-align: center;
 }
@@ -207,7 +320,7 @@ nav.nav2 a {
 
 #slider {
     margin-left: 190px;
-    margin-top: 40px;
+    margin-top: 500px;
     width: 1000px;
     text-align: center;
  }
@@ -282,9 +395,24 @@ nav.nav2 a {
     left: 70px;
  }
 
+ #slideiconalte {
+    position: relative;
+    top: -30px;
+    left: 70px;
+ }
+
  #saibamaisslide {
     position: relative;
     top: 50px;
+    left: -10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3rem;
+    color: black;
+ }
+
+ #saibamaisslidealte {
+    position: relative;
+    top: 10px;
     left: -10px;
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.3rem;
@@ -337,7 +465,6 @@ nav.nav2 a {
     background-color: #191923;
     width: 100%;
     height: 350px;
-    margin-top: -300px;
     padding: 30px 0 60px;
 }
 
