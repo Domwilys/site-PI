@@ -80,7 +80,7 @@ nav.nav2 a {
 
 #cabeçalho {
     background-color: #f3f3f3;
-    height: 710px;
+    height: 720px;
 }
 
 #ftcabeçalho {
@@ -180,9 +180,6 @@ nav.nav2 a {
     color: rgb(112, 111, 111);
 }
 
-#container2 {
-    margin-top: 20px;
-}
 
 #txt2titulo {
     font-family: 'Ubuntu', sans-serif;

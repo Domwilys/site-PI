@@ -275,9 +275,8 @@ nav.nav2 a {
     font-size: 2.2rem;
     font-weight: 500;
     line-height: 2.25rem;
-    margin-top: 100px;
-    margin-top: -620px;
-    margin-left: 100px;
+    margin-top: -730px;
+    margin-left: 67px;
 }
 
 #txt2 {
@@ -288,7 +287,43 @@ nav.nav2 a {
     padding: 650px;
     color: black;
     margin-top: -590px;
-    margin-left: -550px;
+    margin-left: -580px;
+}
+
+#txt2p2 {
+    font-family: 'Dosis', sans-serif;
+    z-index: 1;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 650px;
+    color: black;
+    margin-top: -1280px;
+    margin-left: -580px;
+}
+
+#txt2p3 {
+    font-family: 'Dosis', sans-serif;
+    z-index: 1;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 650px;
+    color: black;
+    margin-top: -1280px;
+    margin-left: -580px;
+}
+
+#saibamais1 {
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(112, 111, 111);
+    font-size: 1rem;
+    justify-content: center;
+    text-align: center;
+    margin-top: -550px;
+}
+
+#saibamais1:hover {
+    opacity: 0.5;
+    transition: .5s;
 }
 
 #container3 {
@@ -301,20 +336,6 @@ nav.nav2 a {
     margin-top: 100px;
     justify-content: center;
     text-align: center;
-}
-
-#saibamais1 {
-    font-family: 'Ubuntu', sans-serif;
-    color: rgb(112, 111, 111);
-    font-size: 1rem;
-    justify-content: center;
-    text-align: center;
-    margin-top: -500px;
-}
-
-#saibamais1:hover {
-    opacity: 0.5;
-    transition: .5s;
 }
 
 #exercicioicon1 {
@@ -423,6 +444,86 @@ nav.nav2 a {
     margin-top: -80px;
 }
 
+#txt3p2 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -280px;
+}
+
+#txt3p3 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -280px;
+}
+
+#txt3p4 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -280px;
+}
+
+#txt3p5 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -280px;
+}
+
+#txt3p6 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -280px;
+}
+
+#txt3p7 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -280px;
+}
+
+#txt3p8 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -280px;
+}
+
+#txt3p9 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 150px;
+    font-size: 300;
+    color: rgb(112, 111, 111);
+    margin-top: -280px;
+}
+
 #slider {
     margin-left: 190px;
     margin-top: 40px;
@@ -500,6 +601,23 @@ nav.nav2 a {
     left: 70px;
  }
 
+ #slideicon2 {
+    position: relative;
+    left: 70px;
+ }
+
+ #slideicon3 {
+    position: relative;
+    left: 70px;
+    top: 10px;
+ }
+
+ #slideicon4 {
+    position: relative;
+    left: 65px;
+    top: 40px;
+ }
+
  #saibamaisslide {
     position: relative;
     top: 50px;
@@ -507,6 +625,38 @@ nav.nav2 a {
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.3rem;
     color: black;
+ }
+
+ #saibamaisslide2 {
+    position: relative;
+    top: 50px;
+    left: -10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3rem;
+    color: black;
+ }
+
+ #saibamaisslide3 {
+    position: relative;
+    top: 55px;
+    left: -10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3rem;
+    color: black;
+ }
+
+ #saibamaisslide4 {
+    position: relative;
+    top: 90px;
+    left: -10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3rem;
+    color: black;
+ }
+
+ #saibamaisslide:hover {
+    color: #ccc;
+    transition: .5s;
  }
 
  #saibamaisslide:hover {
@@ -555,7 +705,7 @@ nav.nav2 a {
     background-color: #191923;
     width: 100%;
     height: 350px;
-    margin-top: 2190px;
+    margin-top: 2820px;
     padding: 30px 0 60px;
 }
 
