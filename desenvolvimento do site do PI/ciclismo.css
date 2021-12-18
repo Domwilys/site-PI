@@ -119,7 +119,7 @@ nav.nav2 a {
 #container1 {
     background-color: #f3f3f3;
     margin-top: -100px;
-    height: 212rem;
+    height: 3392px;
 }
 
 #titulo1 {
@@ -392,10 +392,21 @@ nav.nav2 a {
     left: 70px;
  }
 
- #slideiconalte {
+ #slideicon2 {
     position: relative;
-    top: -30px;
     left: 70px;
+ }
+
+ #slideicon3 {
+    position: relative;
+    left: 70px;
+    top: 10px;
+ }
+
+ #slideicon4 {
+    position: relative;
+    left: 65px;
+    top: 40px;
  }
 
  #saibamaisslide {
@@ -407,18 +418,31 @@ nav.nav2 a {
     color: black;
  }
 
- #saibamaisslidealte {
+ #saibamaisslide2 {
     position: relative;
-    top: 10px;
+    top: 50px;
     left: -10px;
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.3rem;
     color: black;
  }
 
- #saibamaisslide:hover {
-    color: #ccc;
-    transition: .5s;
+ #saibamaisslide3 {
+    position: relative;
+    top: 55px;
+    left: -10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3rem;
+    color: black;
+ }
+
+ #saibamaisslide4 {
+    position: relative;
+    top: 90px;
+    left: -10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3rem;
+    color: black;
  }
  
  #controls {

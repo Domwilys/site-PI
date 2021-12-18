@@ -119,7 +119,11 @@ nav.nav2 a {
 #container1 {
     background-color: #f3f3f3;
     margin-top: -100px;
-    height: 107.3rem;
+    height: 1712px;
+}
+
+#doençaslk {
+    display: hidden;
 }
 
 #titulo1 {
@@ -259,6 +263,10 @@ nav.nav2 a {
     font-family: 'Dosis', sans-serif;
     padding-top: -15px;
     padding-left: 220px;
+}
+
+#orientaçoeslk {
+    display: hidden;
 }
 
 #container2 {
@@ -652,16 +660,6 @@ nav.nav2 a {
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.3rem;
     color: black;
- }
-
- #saibamaisslide:hover {
-    color: #ccc;
-    transition: .5s;
- }
-
- #saibamaisslide:hover {
-    color: #ccc;
-    transition: .5s;
  }
  
  #controls {

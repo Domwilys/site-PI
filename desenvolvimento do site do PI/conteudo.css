@@ -118,7 +118,7 @@ nav.nav2 a {
 #container1 {
     background-color: #f3f3f3;
     margin-top: -100px;
-    height: 115rem;
+    height: 2500px;
 }
 
 #titulo1 {
@@ -137,10 +137,6 @@ nav.nav2 a {
     font-size: 300;
     color: rgb(112, 111, 111);
     margin-top: -80px;
-}
-
-#container2 {
-    margin-top: 100px;
 }
 
 #txt2img {
@@ -168,7 +164,7 @@ nav.nav2 a {
     background-color: #fff;
     border:0;
     width: 700px;
-    height: 430px;
+    height: 1200px;
     margin-top: 200px;
     margin-left: 350px;
     position: relative;
