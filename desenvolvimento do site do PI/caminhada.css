@@ -70,8 +70,8 @@ nav.nav2 a {
 #nomedositenv {
     font-family: 'Raleway', sans-serif;
     font-size: 1.5rem;
-    padding-left: 70px;
     margin-top: -45px;
+    padding-left: 70px;
 }
 
 /*NAVBAR*/
@@ -106,9 +106,9 @@ nav.nav2 a {
     font-size: 1.3rem;
     line-height: 1.625rem;
     color: #fff;
-    padding: 500px;
     margin-top: -100px;
     margin-left: -420px;
+    padding: 500px;
 }
 
 /*CABEÇALHO*/
@@ -133,20 +133,20 @@ nav.nav2 a {
     font-family: 'Dosis', sans-serif;
     font-size: 1.3rem;
     line-height: 1.5rem;
+    margin-top: -80px;
     padding: 150px;
     font-size: 300;
     color: rgb(112, 111, 111);
-    margin-top: -80px;
 }
 
 #txt1p2 {
     font-family: 'Dosis', sans-serif;
     font-size: 1.3rem;
     line-height: 1.5rem;
+    margin-top: -270px;
     padding: 150px;
     font-size: 300;
     color: rgb(112, 111, 111);
-    margin-top: -270px;
 }
 
 #container2 {
@@ -324,8 +324,8 @@ nav.nav2 a {
  #slidetxt {
     font-family: 'Dosis', sans-serif;
     font-size: 1.7rem;
-    padding: 80px;
     margin-top: 20px;
+    padding: 80px;
     justify-content: left;
  }
 
@@ -464,8 +464,8 @@ nav.nav2 a {
 #sobretxt {
     color: #f3f3f3c7;
     font-family: 'Montserrat', sans-serif;
-    padding-left: 590px;
     margin-top: -100px;
+    padding-left: 590px;
 }
 
 #saibamaisrp {
@@ -491,8 +491,8 @@ nav.nav2 a {
 #contatotxt {
     color: #f3f3f3c7;
     font-family: 'Montserrat', sans-serif;
-    padding-left: 1100px;
     margin-top: -123px;
+    padding-left: 1100px;
 }
 
 #contatosrp {
