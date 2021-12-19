@@ -193,45 +193,43 @@ nav.nav2 a {
     font-family: 'Dosis', sans-serif;
     position: absolute;
     font-size: 20px;
-    padding: 160px;
     margin-left: 630px;
     margin-top: -510px;
+    padding: 160px;
 }
 
 #txt2p1 {
     font-family: 'Dosis', sans-serif;
     position: absolute;
     font-size: 20px;
-    padding: 160px;
     margin-left: 630px;
     margin-top: -465px;
+    padding: 160px;
 }
 
 #txt2p2 {
     font-family: 'Dosis', sans-serif;
     position: absolute;
     font-size: 20px;
-    padding: 160px;
     margin-left: 630px;
     margin-top: -315px;
+    padding: 160px;
 }
 
 #txt2p3 {
     font-family: 'Dosis', sans-serif;
     position: absolute;
     font-size: 20px;
+    margin-top: 10px;
     padding: 50px;
-    padding-top: 640px;
-    margin-top: -570px;
 }
 
 #txt2p4 {
     font-family: 'Dosis', sans-serif;
     position: absolute;
     font-size: 20px;
+    margin-top: 80px;
     padding: 50px;
-    padding-top: 640px;
-    margin-top: -490px;
 }
 
 #container3 {
@@ -255,35 +253,34 @@ nav.nav2 a {
     font-family: 'Dosis', sans-serif;
     position: absolute;
     font-size: 20px;
-    padding: 160px;
     margin-right: 630px;
     margin-top: -510px;
+    padding: 160px;
 }
 
 #txt3p2 {
     font-family: 'Dosis', sans-serif;
     position: absolute;
     font-size: 20px;
-    padding: 160px;
     margin-right: 630px;
     margin-top: -440px;
+    padding: 160px;
 }
 
 #txt3p3 {
     font-family: 'Dosis', sans-serif;
     position: absolute;
     font-size: 20px;
-    padding: 160px;
     margin-right: 630px;
     margin-top: -210px;
+    padding: 160px;
 }
 
 #txta {
     font-family: 'Dosis', sans-serif;
     position: absolute;
     font-size: 20px;
-    padding-top: 520px;
-    margin-top: -490px;
+    margin-top: 30px;
     margin-left: -267px;
 }
 
