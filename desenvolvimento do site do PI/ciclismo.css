@@ -65,6 +65,8 @@ nav.nav2 a {
 #logonavimg {
     margin-left: -50px;
     margin-top: -20px;
+    height: 55px;
+    width: 55px;
 }
 
 #nomedositenv {
@@ -181,10 +183,16 @@ nav.nav2 a {
 }
 
 
+#txt2img {
+    height: 470px;
+    width: 650px;
+    object-fit: cover;
+}
+
 #txt2titulo {
     font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
-    margin-left: 910px;
+    margin-left: 900px;
     position: relative;
     top: 60px;
 }
@@ -236,17 +244,20 @@ nav.nav2 a {
     margin-top: 100px;
 }
 
+#txt3img {
+    margin-left: 700px;
+    margin-top: 200px;
+    height: 470px;
+    width: 650px;
+    object-fit: cover;
+}
+
 #txt3titulo {
     font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
     margin-left: 150px;
     position: relative;
     top: 260px;
-}
-
-#txt3img {
-    margin-left: 700px;
-    margin-top: 200px;
 }
 
 #txt3 {
@@ -387,23 +398,31 @@ nav.nav2 a {
  #slideicon {
     position: relative;
     left: 70px;
+    height: 50px;
+    width: 50px;
  }
 
  #slideicon2 {
     position: relative;
     left: 70px;
+    height: 50px;
+    width: 50px;
  }
 
  #slideicon3 {
     position: relative;
     left: 70px;
     top: 10px;
+    height: 45px;
+    width: 45px;
  }
 
  #slideicon4 {
     position: relative;
     left: 65px;
     top: 40px;
+    height: 45px;
+    width: 45px;
  }
 
  #saibamaisslide {
@@ -491,6 +510,8 @@ nav.nav2 a {
     position: absolute;
     margin-top: -5px;
     margin-left: 80px;
+    height: 45px;
+    width: 45px;
 }
 
 #nomedositerp {
@@ -571,6 +592,18 @@ nav.nav2 a {
     margin-left: 640px;
     margin-top: 30px;
     margin-bottom: -5px;
+    height: 44px;
+    width: 38px;
+}
+
+#instagram {
+    height: 35px;
+    width: 35px;
+}
+
+#twitter {
+    height: 35px;
+    width: 35px;
 }
 
 /*RODAPÉ*/

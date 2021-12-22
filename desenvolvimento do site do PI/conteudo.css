@@ -65,6 +65,9 @@ nav.nav2 a {
 #logonavimg {
     margin-left: -50px;
     margin-top: -20px;
+    height: 55px;
+    width: 55px;
+    object-fit: cover;
 }
 
 #nomedositenv {
@@ -141,6 +144,9 @@ nav.nav2 a {
 
 #txt2img {
     margin-top: -5px;
+    height: 470px;
+    width: 650px;
+    object-fit: cover;
 }
 
 #txt2titulo {
@@ -214,6 +220,8 @@ nav.nav2 a {
     position: absolute;
     margin-top: -5px;
     margin-left: 80px;
+    height: 45px;
+    width: 45px;
 }
 
 #nomedositerp {
@@ -294,6 +302,18 @@ nav.nav2 a {
     margin-left: 640px;
     margin-top: 30px;
     margin-bottom: -5px;
+    height: 44px;
+    width: 38px;
+}
+
+#instagram {
+    height: 35px;
+    width: 35px;
+}
+
+#twitter {
+    height: 35px;
+    width: 35px;
 }
 
 /*RODAPÉ*/

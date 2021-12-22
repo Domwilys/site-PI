@@ -65,6 +65,9 @@ nav.nav2 a {
 #logonavimg {
     margin-left: -60px;
     margin-top: -20px;
+    height: 55px;
+    width: 55px;
+    object-fit: cover;
 }
 
 #nomedositenv {
@@ -144,6 +147,12 @@ nav.nav2 a {
     margin-top: 20px;
 }
 
+#txt2img {
+    height: 470px;
+    width: 650px;
+    object-fit: cover;
+}
+
 #txt2titulo {
     font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
@@ -165,17 +174,20 @@ nav.nav2 a {
     margin-top: 30px;
 }
 
+#txt3img {
+    margin-left: 700px;
+    margin-top: 200px;
+    height: 470px;
+    width: 650px;
+    object-fit: cover;
+}
+
 #txt3titulo {
     font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
     margin-left: 220px;
     position: relative;
     top: 260px;
-}
-
-#txt3img {
-    margin-left: 700px;
-    margin-top: 200px;
 }
 
 #txt3 {
@@ -204,6 +216,8 @@ nav.nav2 a {
     position: absolute;
     margin-top: -5px;
     margin-left: 80px;
+    height: 45px;
+    width: 45px;
 }
 
 #nomedositerp {
@@ -284,6 +298,18 @@ nav.nav2 a {
     margin-left: 640px;
     margin-top: 30px;
     margin-bottom: -5px;
+    height: 44px;
+    width: 38px;
+}
+
+#instagram {
+    height: 35px;
+    width: 35px;
+}
+
+#twitter {
+    height: 35px;
+    width: 35px;
 }
 
 /*RODAPÉ*/
